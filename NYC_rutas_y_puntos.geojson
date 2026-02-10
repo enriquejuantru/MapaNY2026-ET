@@ -1,0 +1,516 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    /* ------------------------- VIERNES ------------------------- */
+
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 0,
+        "day": "viernes",
+        "name": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.986374, 40.76058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 1,
+        "day": "viernes",
+        "name": "TKTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98497, 40.759186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "day": "viernes",
+        "color": "#e11d48"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.986374, 40.76058],
+          [-73.98497, 40.759186]
+        ]
+      }
+    },
+
+    /* ------------------------- SÁBADO ------------------------- */
+
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 2,
+        "day": "sabado",
+        "name": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.986374, 40.76058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 3,
+        "day": "sabado",
+        "name": "Battery Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.017, 40.7033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 4,
+        "day": "sabado",
+        "name": "9/11 Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.01361, 40.71167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 5,
+        "day": "sabado",
+        "name": "9/11 Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.013855, 40.711449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 6,
+        "day": "sabado",
+        "name": "Oculus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0114, 40.7115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 7,
+        "day": "sabado",
+        "name": "Wall St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.01, 40.707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "day": "sabado",
+        "color": "#2563eb"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.986374, 40.76058],
+          [-74.017, 40.7033],
+          [-74.01361, 40.71167],
+          [-74.013855, 40.711449],
+          [-74.0114, 40.7115],
+          [-74.01, 40.707],
+          [-73.986374, 40.76058]
+        ]
+      }
+    },
+
+    /* ------------------------- DOMINGO ------------------------- */
+
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 8,
+        "day": "domingo",
+        "name": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.986374, 40.76058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 9,
+        "day": "domingo",
+        "name": "DUMBO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98958, 40.7032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 10,
+        "day": "domingo",
+        "name": "Brooklyn Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.997002, 40.706001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 11,
+        "day": "domingo",
+        "name": "Grand Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.977295, 40.752655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 12,
+        "day": "domingo",
+        "name": "Roosevelt Tram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9541, 40.7574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "day": "domingo",
+        "color": "#16a34a"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.986374, 40.76058],
+          [-73.98958, 40.7032],
+          [-73.997002, 40.706001],
+          [-73.977295, 40.752655],
+          [-73.9541, 40.7574]
+        ]
+      }
+    },
+
+    /* ------------------------- LUNES ------------------------- */
+
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 13,
+        "day": "lunes",
+        "name": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.986374, 40.76058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 14,
+        "day": "lunes",
+        "name": "Chinatown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.997, 40.715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 15,
+        "day": "lunes",
+        "name": "Little Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.997, 40.719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 16,
+        "day": "lunes",
+        "name": "SoHo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0, 40.723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 17,
+        "day": "lunes",
+        "name": "Greenwich Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.00278, 40.73361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "day": "lunes",
+        "color": "#f59e0b"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.986374, 40.76058],
+          [-73.997, 40.715],
+          [-73.997, 40.719],
+          [-74.0, 40.723],
+          [-74.00278, 40.73361],
+          [-73.986374, 40.76058]
+        ]
+      }
+    },
+
+    /* ------------------------- MARTES ------------------------- */
+
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 18,
+        "day": "martes",
+        "name": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.986374, 40.76058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 19,
+        "day": "martes",
+        "name": "St Patrick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.97639, 40.75861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 20,
+        "day": "martes",
+        "name": "Top Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.979431, 40.75906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 21,
+        "day": "martes",
+        "name": "Central Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.968285, 40.785091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 22,
+        "day": "martes",
+        "name": "Apollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.95, 40.81]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 23,
+        "day": "martes",
+        "name": "Hudson Yards"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.00056, 40.75611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 24,
+        "day": "martes",
+        "name": "High Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0047, 40.748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 25,
+        "day": "martes",
+        "name": "Chelsea Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.00621, 40.742352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 26,
+        "day": "martes",
+        "name": "Empire State"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.985428, 40.748817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 27,
+        "day": "martes",
+        "name": "SUMMIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9785, 40.753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "day": "martes",
+        "color": "#7c3aed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.986374, 40.76058],
+          [-73.97639, 40.75861],
+          [-73.979431, 40.75906],
+          [-73.968285, 40.785091],
+          [-73.95, 40.81],
+          [-74.00056, 40.75611],
+          [-74.0047, 40.748],
+          [-74.00621, 40.742352],
+          [-73.985428, 40.748817],
+          [-73.9785, 40.753],
+          [-73.986374, 40.76058]
+        ]
+      }
+    },
+
+    /* ------------------------- MIÉRCOLES ------------------------- */
+
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 28,
+        "day": "miercoles",
+        "name": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.986374, 40.76058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 29,
+        "day": "miercoles",
+        "name": "Flatiron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98972, 40.74111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 30,
+        "day": "miercoles",
+        "name": "NYPL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98194, 40.75306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": 31,
+        "day": "miercoles",
+        "name": "Bryant Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.983559, 40.753742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "day": "miercoles",
+        "color": "#92400e"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.986374, 40.76058],
+          [-73.98972, 40.74111],
+          [-73.98194, 40.75306],
+          [-73.983559, 40.753742],
+          [-73.986374, 40.76058]
+        ]
+      }
+    }
+
+  ]
+}
